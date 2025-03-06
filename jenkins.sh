@@ -15,3 +15,4 @@ service jenkins start
 cat /var/lib/jenkins/secrets/initialAdminPassword
 #chmod 777 jenkins.sh
 #./jenkins.sh
+# To check the status of jenkin - sudo systemctl status jenkins
